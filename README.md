@@ -1,4 +1,4 @@
-# Linux_awsome_tools
+# Linux awsome tool
 Linux awsome tools used collections
 
 ## Graphics
